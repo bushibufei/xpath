@@ -28,7 +28,7 @@
   "dtImg": "//div[contains(@class,'myui-content__thumb')]/a/img/@data-original",
   "dtImgR": "",
   "dtCate": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '分类')]/following-sibling::a/text()",
-  "dtYear": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '年份')]/following-sibling::a/text()",
+  "dtYear": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(),'年份')]/following-sibling::a/text()",
   "dtArea": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '地区')]/following-sibling::a/text()",
   "dtMark": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '更新')]/following-sibling::a/text()",
   "dtDirector": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '导演')]/following-sibling::a/text()",
